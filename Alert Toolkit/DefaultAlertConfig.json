@@ -1341,6 +1341,18 @@
       "Information": true
     },
     {
+      "EventLogName": "Microsoft-Windows-AppLocker/EXE and DLL",
+      "Error": true,
+      "Warning": true,
+      "Information": true
+    },
+    {
+      "EventLogName": "Microsoft-Windows-AppLocker/MSI and Script",
+      "Error": true,
+      "Warning": true,
+      "Information": true
+    },
+    {
       "EventLogName": "Microsoft-Windows-ClusterAwareUpdating/Admin",
       "Error": true,
       "Warning": true,
@@ -1431,6 +1443,12 @@
       "Information": true
     },
     {
+      "EventLogName": "Microsoft-Windows-PowerShell/Operational",
+      "Error": true,
+      "Warning": true,
+      "Information": false
+    },
+    {
       "EventLogName": "Microsoft-Windows-SMBServer/Operational",
       "Error": true,
       "Warning": true,
@@ -1455,6 +1473,18 @@
       "Information": true
     },
     {
+      "EventLogName": "Microsoft-Windows-Windows Firewall With Advanced Security/Firewall",
+      "Error": true,
+      "Warning": true,
+      "Information": true
+    },
+    {
+      "EventLogName": "Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurity",
+      "Error": true,
+      "Warning": true,
+      "Information": true
+    },
+    {
       "EventLogName": "MSNIPAK",
       "Error": true,
       "Warning": true,
@@ -1474,6 +1504,18 @@
     },
     {
       "EventLogName": "System",
+      "Error": true,
+      "Warning": true,
+      "Information": true
+    },
+    {
+      "EventLogName": "PowerShellCore/Operational",
+      "Error": true,
+      "Warning": true,
+      "Information": true
+    },
+    {
+      "EventLogName": "Windows PowerShell",
       "Error": true,
       "Warning": true,
       "Information": true
